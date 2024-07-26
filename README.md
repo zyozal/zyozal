@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzyozal&count_bg=%23524782&title_bg=%231B1B1B&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
-   <a href="https://blog.naver.com/zyozal"><img src="https://img.shields.io/badge/DevBlog-03C75A?style=badge&logo=naver&logoColor=white"/></a> 
+   <a href="https://blog.naver.com/zyozal"><img src="https://img.shields.io/badge/DevBlog-8688c4?style=badge&logo=naver&logoColor=white"/></a> 
 </div> 
 
 <br><br><br><br>
